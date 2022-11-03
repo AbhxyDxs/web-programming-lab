@@ -1,0 +1,50 @@
+
+body{
+  background: #eaeae7
+}
+
+h1,h2,h3,h4,h5,p{
+  color: #565f63
+}
+
+#details{
+  background:#a3aeb1;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+  }
+
+  
+  th, td {
+    text-align: left;
+    padding: 6px;
+    background-color:  #a3aeb1;
+    -webkit-text-fill-color : #eaeae7
+  }
+  
+  
+  th {
+    background-color: #565f63;
+    color: white;
+  }
+  
+  
+  a:link, a:visited {
+    background-color: #4c575c;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #c6d537;
+  }
+
+  ul {
+    -webkit-text-fill-color: #565f63;
+  }
